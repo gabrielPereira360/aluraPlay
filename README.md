@@ -17,6 +17,6 @@
 
 ### Gabriel Pereira
 
-### Link da prévia: https://gabrielpereira360.github.io/imersao_frontend/
+### Link da prévia: https://gabrielpereira360.github.io/aluraPlay/
 ### Linkedin: https://www.linkedin.com/in/gabriel-martins2003/
 
