@@ -1,4 +1,4 @@
-<p align="center">Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos.</p>
+<p align="center">Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos (Por motivos de limitações dos servidores github as funções de pesquisa e adição de vídeo não irão funcionar no link deixado de amostra, sendo sua função apenas a navegação pelo layout).</p>
 
 ## Tecnologias utilizadas durante o curso
 * Javascript
